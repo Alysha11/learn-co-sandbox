@@ -1,0 +1,12 @@
+body{
+  background-color:blue;
+}
+p{
+  font-size:24px;
+}
+#greeting{
+  background-color:green; 
+}
+.facts{
+  text-align:center;
+}
